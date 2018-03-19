@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovyCollection.iml" filepath="$PROJECT_DIR$/.idea/modules/groovyCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovyCollection_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovyCollection_main.iml" group="groovyCollection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovyCollection_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovyCollection_test.iml" group="groovyCollection" />
     </modules>
   </component>
 </project>
