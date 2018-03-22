@@ -1,5 +1,5 @@
 
-    class Ex {
+    class Ex {//just practice in this class
         static void main(String[] args) {
             ['a', 'b', 'c'].eachWithIndex { it, i -> // `it` is the current element, while `i` is the index
                 println "$i: $it"
