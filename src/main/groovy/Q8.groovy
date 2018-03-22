@@ -14,7 +14,7 @@ class Q8 {
 
 
         List<Employee> p=[]
-        p<<list.findAll {it.salary>5000.00}
+        p<<list.findAll {it.salary<5000.00}
         p.each {
             println(p.name)
         }

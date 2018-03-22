@@ -2,7 +2,7 @@ class Q23 {
 
     static void main(String[] args) {
 
-        String s = "http://www.google.com?name=johny&age=20&hobby=cricket"
+        String s = "http://www.google.com?name=ajay&age=22&hobby=painting"
         URL url = new URL(s)
         String query = url.getQuery()
 
